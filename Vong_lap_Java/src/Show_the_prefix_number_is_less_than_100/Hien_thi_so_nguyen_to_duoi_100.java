@@ -1,0 +1,2 @@
+package Show_the_prefix_number_is_less_than_100;public class Hien_thi_so_nguyen_to_duoi_100 {
+}
