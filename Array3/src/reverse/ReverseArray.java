@@ -31,9 +31,9 @@ public class ReverseArray {
             array[j] = array[size - 1 - j];
             array[size - 1 - j] = temp;
         }
-        System.out.printf("\n%-30s","Mảng đảo ngược:");
+        System.out.printf("\n%-30s","Mảng đảo ngược:");  // in ra giá trị trong mảng khoảng cách bên trái là 30
         for (int j = 0; j < array.length; j++) {
-            System.out.printf("%-5s",array[j]);
+            System.out.printf("%-5s",array[j]); //in ra giá trị khoảng cách bên trái là 5
         }
     }
 }
