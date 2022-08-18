@@ -5,8 +5,8 @@ public class static_method_bt {
         private String name ;
         private static String collge = "BBDIT";
         static_method_bt (int r , String n){
-            r = rollno;
-            n = name ;
+            rollno = r;
+            name = n ;
         }
         static void chang(){
             collge = "CODEGYM";
