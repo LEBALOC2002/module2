@@ -1,12 +1,12 @@
 package demo_static;
 
-class statictest {
+class statics {
         // non-static phương thức method
          int multiply(int a, int b){
             return a * b;
         }
 
-        // static method
+        // static phương thức method
         static int add(int a, int b){
             return a + b;
         }
@@ -15,14 +15,13 @@ class statictest {
     public class Main {
 
         public static void main( String[] args ) {
+            // tạo một thể hiện của lớp static
+            statics st = new statics();
 
-            // create an instance of the StaticTest class
-            statictest st = new statictest();
-
-            // call the nonstatic method
+            // gọi phương thức non-static
             System.out.println(" 2 * 2 = " + st.multiply(2,2));
 
-            // call the static method
-            System.out.println(" 2 + 3 = " + statictest.add(2,3));
+            // gọi phương thức static
+            System.out.println(" 2 + 3 = " + statics.add(2,3));
         }
     }

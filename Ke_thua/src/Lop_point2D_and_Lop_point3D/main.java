@@ -9,7 +9,5 @@ public class main {
         Lop_point3d lop_point3d = new Lop_point3d();
         lop_point3d.setxyz();
         System.out.println(  lop_point3d.toString());
-
-
     }
 }

@@ -1,17 +1,8 @@
 package Abstract_Classes;
 
-public class main {
+public class Mains {
     public static void main(String[] args) {
-        Rectangle rectangle = new Rectangle() {
-            @Override
-            public double getArea() {
-                return 7;
-            }
-
-            @Override
-            public double getPerimeter() {
-                return 7;
-            }
-        }
+        Circle circle =new Circle(4);
+        System.out.println(circle.getRadius());
     }
 }

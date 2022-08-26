@@ -10,7 +10,6 @@ public class main {
         triangle.setSide2();
         triangle.setSide3();
         System.out.println("Triangle " + triangle.toString());
-
     }
 }
 

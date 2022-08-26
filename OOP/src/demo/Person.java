@@ -1,2 +1,5 @@
-package demo;public class Person {
+package demo;
+
+public class Person {
+
 }

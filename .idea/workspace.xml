@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dadfe116-543f-429d-951e-178854a7f343" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/out/production/Introduction to Java/UCLN/UCLN.class" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/out/production/Introduction to Java/UCLN/UCLN.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Access modifier_staticmethod_staticproperty/src/demo_static/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array3/out/production/Array3/temperature_switch/temperature_switch.class" beforeDir="false" afterPath="$PROJECT_DIR$/Array3/out/production/Array3/temperature_switch/temperature_switch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array3/src/sort/SortDeHieu.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array3/src/sort/SortDeHieu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/src/demo/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/src/demo/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vong_lap_Java/out/production/Vong_lap_Java/Checking_for_primes/Checking_for_primes.class" beforeDir="false" afterPath="$PROJECT_DIR$/Vong_lap_Java/out/production/Vong_lap_Java/Checking_for_primes/Checking_for_primes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vong_lap_Java/out/production/Vong_lap_Java/loan_app_billing/loan_app_billing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vong_lap_Java/src/Checking_for_primes/Checking_for_primes.java" beforeDir="false" afterPath="$PROJECT_DIR$/Vong_lap_Java/src/Checking_for_primes/Checking_for_primes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sort/src/insertion_sort/insertion_sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/sort/src/insertion_sort/insertion_sort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +22,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Introduction to Java" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -25,18 +33,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Module2",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Module2/OOP&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -47,6 +55,8 @@
       <updated>1660183374895</updated>
       <workItem from="1660183376372" duration="24000" />
       <workItem from="1660185107964" duration="714000" />
+      <workItem from="1660712169770" duration="79000" />
+      <workItem from="1660784696644" duration="28000" />
     </task>
     <servers />
   </component>

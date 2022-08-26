@@ -13,6 +13,7 @@ public class Run {
             }
         }
 
+
     }
 
     static Shape getRandomShape() {
